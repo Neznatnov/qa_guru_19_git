@@ -2,6 +2,6 @@ package com.neznatnov;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Nika is Great!");
+        System.out.println("Hello world!");
     }
 }
